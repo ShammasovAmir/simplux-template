@@ -1,0 +1,16 @@
+{
+    "name": "amirsh/simplux-template",
+    "description": "A simple, lightweight & elegant template engine for PHP.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ShammasovAmir\\SimpluxTemplate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amirsh"
+        }
+    ],
+    "require": {}
+}
